@@ -15,7 +15,6 @@ assignees: ''
  
  ### Additional Information  
  * [document what you know]
-
    
  ```gherkin
  Given [some context]
