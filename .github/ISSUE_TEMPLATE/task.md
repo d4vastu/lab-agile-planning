@@ -12,10 +12,7 @@ assignees: ''
 
  ### Why it needs to be done
  * [document what you know]
-
- ### What needs to be done
- * [document what you know]
-   
+ 
  ### Additional Information  
    
  ```gherkin
